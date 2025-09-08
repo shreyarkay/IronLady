@@ -20,18 +20,8 @@
 
 Users can add tasks through an input field, view a list of tasks, edit task names, and delete tasks. The application provides a straightforward interface for task management.
 
+## Chatbot
 ## Running the Chatbot with OpenAI Integration
 
 The chatbot version allows users to ask questions related to the application, and it responds using OpenAI's API. Users can type queries to receive dynamic answers.
 
-## Contributing
-
-Contributions are welcome! Suggestions for improvements or features can be shared through issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-Special thanks to OpenAI for providing the API for dynamic responses and to Express for the web framework.
